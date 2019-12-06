@@ -1,0 +1,9 @@
+num = 9
+if num >9:
+    print('Big')
+    if num ==10:
+        print('very Big')
+    elif num ==9:
+        print('Small')
+    else:
+        print('Error')
